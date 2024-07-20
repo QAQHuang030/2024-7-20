@@ -3,10 +3,11 @@
 
 # GenAI g生成試式AI
 
-## ChatGPT
+- ChatGPT
 
-## Google Gemini
+- Google Gemini
 
-## Spolit
+- Spolit
 
 #test
+
